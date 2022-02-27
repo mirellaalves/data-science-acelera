@@ -1,0 +1,13 @@
+============================= test session starts =============================
+platform win32 -- Python 3.9.5, pytest-6.2.5, py-1.11.0, pluggy-1.0.0 -- C:\Users\mirel\codenation\venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\mirel\codenation\data-science-3
+collecting ... collected 4 items
+
+test_submit.py::test_q1 PASSED                                           [ 25%]
+test_submit.py::test_q2 PASSED                                           [ 50%]
+test_submit.py::test_q3 PASSED                                           [ 75%]
+test_submit.py::test_q4 PASSED                                           [100%]
+
+--- generated xml file: C:\Users\mirel\codenation\data-science-3\output.xml ---
+============================== 4 passed in 6.55s ==============================
